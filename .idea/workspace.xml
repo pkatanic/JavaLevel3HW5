@@ -12,9 +12,12 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="127" />
-    <option name="y" value="105" />
+    <option name="x" value="354" />
+    <option name="y" value="208" />
     <option name="width" value="1453" />
     <option name="height" value="776" />
   </component>
@@ -30,6 +33,11 @@
             <path>
               <item name="CarRacing" type="b2602c69:ProjectViewProjectNode" />
               <item name="GeekBrains" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CarRacing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GeekBrains" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -73,7 +81,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="127" y="105" width="1453" height="776" extended-state="0" />
+    <frame x="354" y="208" width="1453" height="776" extended-state="0" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
